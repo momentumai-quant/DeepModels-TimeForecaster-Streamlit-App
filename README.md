@@ -7,7 +7,7 @@
 ## Overview
 An advanced **Streamlit-based dashboard** for stock market and Financial data time-series analysis and prediction, combining traditional time series models with deep learning approaches.  
 
-** Tutorial Jupyter Notebook**: Tutorial time-series analysis for XAU-USD Gold Price from basic concepts to implementing advanced deep learning models 
+**Tutorial Jupyter Notebook**: Tutorial time-series analysis for XAU-USD Gold Price from basic concepts to implementing advanced deep learning models 
 ## Features
 
 ### ✔ Time-Series Data Information(Financial Data In Here)
